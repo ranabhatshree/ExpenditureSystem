@@ -6,7 +6,8 @@ Uploaded on Github: 8/21/2018 <br>
 
 Compiled and run on Code Blocks and Dev C++ Compiler (Works 100% fine).
 
-IF YOU HAVE ANY ISSUES, PLEASE FEEL FREE TO CONTACT ME.
-FACEBOOK: https://www.facebook.com/soyam.ranabhat
+IF YOU HAVE ANY ISSUES, PLEASE FEEL FREE TO CONTACT ME.<br>
+
+FACEBOOK: https://www.facebook.com/soyam.ranabhat <br>
 TWITTER: https://twitter.com/shree2072
 
